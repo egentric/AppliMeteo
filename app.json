@@ -4,6 +4,7 @@
     "slug": "appli-meteo",
     "version": "1.0.0",
     "orientation": "portrait",
+    "assets": ["./assets/fonts/"],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
